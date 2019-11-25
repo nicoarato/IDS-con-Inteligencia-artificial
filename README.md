@@ -1,6 +1,2 @@
-# IDS-con-Inteligencia-artificial
-Proyecto Final presentado para la materia Inteligencia Computacional de la carrera de ingeniería en informática.
-
-Se utilizó un Perceptrón Multicapa Jerárquico como clasificador.
-Consta de varios MLP conectados donde cada MLP se especializa en la detección de un ataque en particular.
-Los resultados se presentan en los documentos .pdf.
+# IDS con Inteligencia-artificial | IDS IA
+Summary — This paper addresses the detection of intrusions in local data networks, which is part of cybersecurity tools, focusing on the protection of information assets through the treatment of threats that they put into risk the information processed, stored and transported by interconnected systems. In order to detect intrusions, multilayer neural networks interconnected in various ways were used and finally the performance of the proposed architectures was measured in order to be able to compare them with each other and know for which case a given architecture is the most appropriate.
